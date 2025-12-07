@@ -1,0 +1,155 @@
+/* XPM */
+static char *wolfenstein_door_open[] = {
+/* columns rows colors chars-per-pixel */
+"64 64 84 1",
+"  c #010102", /* negro - fondo oscuro */
+". c #00040B", /* azul muy oscuro */
+"X c #00090D", /* azul oscuro */
+"o c #000612", /* azul oscuro */
+"O c #084D6D", /* azul medio */
+"+ c #074A64", /* azul claro grisáceo */
+"@ c #19526D", /* azul medio verdoso */
+"# c #135778", /* azul claro */
+"$ c #095171", /* azul medio */
+"% c #224F66", /* azul grisáceo */
+"& c #265E79", /* azul grisáceo medio */
+"* c #295F79", /* azul grisáceo claro */
+"= c #275D77", /* azul grisáceo */
+"- c #355A63", /* gris azulado */
+"; c #37626E", /* gris azulado */
+": c #2A627C", /* azul grisáceo medio */
+"> c #2D6576", /* azul grisáceo claro */
+", c #3D6C7E", /* azul grisáceo claro */
+"< c #42535A", /* gris oscuro */
+"1 c #4F6977", /* gris azulado */
+"2 c #707679", /* gris claro */
+"3 c #165785", /* azul */
+"4 c #166184", /* azul */
+"5 c #1C6285", /* azul */
+"6 c #17648A", /* azul */
+"7 c #136893", /* azul */
+"8 c #1B6D93", /* azul */
+"9 c #1A6E98", /* azul */
+"0 c #186B97", /* azul */
+"q c #1C729C", /* azul */
+"w c #1B7295", /* azul */
+"e c #236A8B", /* azul grisáceo */
+"r c #2A6A8C", /* azul grisáceo */
+"t c #276684", /* azul grisáceo */
+"y c #316985", /* azul grisáceo */
+"u c #3A6B83", /* azul grisáceo */
+"i c #376D8C", /* azul grisáceo */
+"p c #33728C", /* azul grisáceo claro */
+"a c #3B768B", /* azul grisáceo claro */
+"s c #216E92", /* azul medio */
+"d c #2B6E91", /* azul medio */
+"f c #276F9A", /* azul medio */
+"g c #396E93", /* azul medio */
+"h c #2C7392", /* azul medio */
+"j c #2E7994", /* azul medio */
+"k c #22729A", /* azul medio */
+"l c #2B759C", /* azul medio */
+"z c #27769B", /* azul medio */
+"x c #337394", /* azul medio claro */
+"c c #337A9C", /* azul medio claro */
+"v c #387B9B", /* azul medio claro */
+"b c #367796", /* azul medio */
+"n c #2279A5", /* azul brillante */
+"m c #297CAB", /* azul brillante */
+"M c #2A79A4", /* azul brillante */
+"N c #337CA5", /* azul brillante */
+"B c #3B7BA2", /* azul brillante */
+"V c #447D8A", /* azul grisáceo claro */
+"C c #4A7E9C", /* azul grisáceo medio */
+"Z c #457897", /* azul grisáceo medio */
+"A c #6A7B85", /* gris azulado claro */
+"S c #3B809D", /* azul verdoso claro */
+"D c #662200", /* marrón muy oscuro - puerta cerrada */
+"F c #773300", /* marrón oscuro - detalles puerta */
+"G c #AA5500", /* marrón - puerta */
+"H c #996644", /* marrón claro - detalles puerta */
+"J c #BBBBBB", /* gris muy claro - luces */
+"K c #CCCCCC", /* casi blanco - brillos puerta */
+"L c #439CC3", /* azul celeste - highlight */
+"P c #3EA3D3", /* azul celeste brillante */
+"I c #439CEC", /* azul celeste brillante */
+"U c #5CAAD1", /* azul celeste medio */
+"Y c #53B4DC", /* azul celeste claro */
+"T c #7BC4D8", /* azul celeste muy claro */
+"R c #6DC3E4", /* azul celeste muy claro */
+"E c #73C3E4", /* azul celeste muy claro */
+"W c #7CC5E5", /* azul celeste muy claro */
+"Q c #99C9DF", /* azul pálido muy claro */
+"! c #83C4E1", /* azul pálido muy claro */
+"~ c #8CD2E9", /* azul pálido brillante */
+"^ c #000000", /* negro puro - sombras */
+"/ c #111111", /* casi negro - sombras profundas */
+"( c #222222", /* gris muy oscuro - sombras */
+") c #333333", /* gris oscuro - detalles */
+/* pixels */
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+",,,,,,,,,,,,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,,,,,,,,,,",
+",,,,,,,,,,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,,,,,,,,,",
+",,,,,,,,,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,,,,,,,",
+",,,,,,,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,,,,,",
+",,,,,,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,,,,",
+",,,,,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,,,",
+",,,,$$$$$ggggggggggggggggggggg$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,,",
+",,,$$$$$ggggggggggggggggggggg$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,",
+",,$$$$$$GGGGGGGGGGGGGGGGGGGG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$g,,,",
+",,$$$$$GGFDFFFFFDFFDFFFFFDG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$g,,,,",
+",,$$$$GGFFDDDFDFFDDFDDDDDG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$g$,,,",
+",,$$$$GGFFFFFDDDDDFDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$g$,,,",
+",$$$$$GGFDDDFFDDDDDDDFDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$g,$,",
+",$$$$$GGFFFDDDDDDDDDDFDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDFFDDDDDDDDFDDDG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDDDF$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDFDDDDDDDDDDG$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDKDDDDDDDDDDDG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDDDG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDDG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGFDDDDDDDDDDDDDFG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$GGGGGGGGGGGGGGGGGG$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$)))))))))))))))))))$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$gg,$,",
+",$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,",
+",,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,",
+",,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,",
+",,,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,",
+",,,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,",
+",,,,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,,",
+",,,,,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,$,,,,,",
+",,,,,,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,,,,,,",
+",,,,,,,,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,,,,,,,",
+",,,,,,,,,,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,,,,,,,,,",
+",,,,,,,,,,,,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,,,,,,,,,,,,,,",
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+};
